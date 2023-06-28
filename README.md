@@ -1,4 +1,4 @@
-![abstract-magic-light-background-blue-holiday-vector-8147237](https://github.com/samarthgh/Telephone-Directory-python/assets/94733648/fd6c8ee7-c070-462a-9f67-e12fbc074b8f)# Telephone Directory
+# Telephone Directory
 
 This project is a telephone directory implemented using the Tkinter library in Python with a SQL backend. It allows users to add, search, and delete contacts based on their name, address, and phone number.
 
